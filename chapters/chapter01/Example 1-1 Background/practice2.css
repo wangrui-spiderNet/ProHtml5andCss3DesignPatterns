@@ -1,0 +1,25 @@
+div.bg{
+	background-color: #008000;margin: 15dp;width: 320;padding: -10px;}
+
+h1.first_page_title{
+	margin: 10px; font-style: italic; 
+	font-size: 25px; color: white;}
+
+p.indent{
+	position: relative; margin-left: 120px;}
+
+*.graphic-dropcap{ position:absolute; 
+                         width:120px; height:90px; left:-120px; top:0; }
+
+*.graphic-dropcap span { position:absolute; 
+                         width:120px; height:90px; margin:0; left:0; top:0;
+                         background:url(m.jpg) no-repeat; }
+                         
+p.poem{
+	font-family: "bodoni mt black"; font-size: smaller;color: indianred;
+	letter-spacing: initial;}
+	
+
+                         
+                         
+
